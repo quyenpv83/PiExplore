@@ -8,6 +8,6 @@ Công cụ Pi Explore được phát triển trên mối trường .Net Framewor
 
  - Tải xuống .Net Framework 8.0 [tại đây](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.0-windows-x64-installer?cid=getdotnetcore)
 
- ## Hướng dẫn xử dụng
+ ## Hướng dẫn sử dụng
 
  - Quan trọng: Nếu là lần đầu khởi chạy trên một máy tính nào đó thì lúc này do ứng dụng là phần mềm phát triển vì thế trình bảo vệ Windows Security sẽ hiển thị một cảnh bảo phần mềm chưa được xác thực với Microsoft, sau một thời gian Windows Security sẽ nhận diện và tắt thông báo này.
